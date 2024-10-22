@@ -1,0 +1,183 @@
+[
+    {
+      "name": "Smartphone",
+      "description": "Latest 5G smartphone with OLED display.",
+      "price": 799.99,
+      "categoryId": 1
+    },
+    {
+      "name": "Laptop",
+      "description": "Lightweight laptop with 16GB RAM and 512GB SSD.",
+      "price": 1299.99,
+      "categoryId": 1
+    },
+    {
+      "name": "Headphones",
+      "description": "Noise-cancelling over-ear headphones.",
+      "price": 199.99,
+      "categoryId": 1
+    },
+    {
+      "name": "Novel: 'The Great Gatsby'",
+      "description": "A classic novel by F. Scott Fitzgerald.",
+      "price": 9.99,
+      "categoryId": 2
+    },
+    {
+      "name": "Self-Help Book: 'Atomic Habits'",
+      "description": "An insightful guide to building good habits.",
+      "price": 16.99,
+      "categoryId": 2
+    },
+    {
+      "name": "Cookbook: 'The Joy of Cooking'",
+      "description": "A comprehensive guide to cooking basics.",
+      "price": 24.99,
+      "categoryId": 2
+    },
+    {
+      "name": "Men's T-shirt",
+      "description": "100% cotton crew-neck t-shirt.",
+      "price": 15.99,
+      "categoryId": 3
+    },
+    {
+      "name": "Women's Jeans",
+      "description": "High-waisted stretch denim jeans.",
+      "price": 49.99,
+      "categoryId": 3
+    },
+    {
+      "name": "Children's Hoodie",
+      "description": "Warm hoodie for kids with soft inner lining.",
+      "price": 29.99,
+      "categoryId": 3
+    },
+    {
+      "name": "Microwave Oven",
+      "description": "1000W microwave oven with preset cooking functions.",
+      "price": 89.99,
+      "categoryId": 4
+    },
+    {
+      "name": "Blender",
+      "description": "High-speed blender for smoothies and shakes.",
+      "price": 39.99,
+      "categoryId": 4
+    },
+    {
+      "name": "Sofa Set",
+      "description": "3-piece sectional sofa set with fabric upholstery.",
+      "price": 899.99,
+      "categoryId": 4
+    },
+    {
+      "name": "Lego Set",
+      "description": "A large creative brick set for kids aged 6-12.",
+      "price": 59.99,
+      "categoryId": 5
+    },
+    {
+      "name": "Action Figure",
+      "description": "Posable superhero action figure with accessories.",
+      "price": 19.99,
+      "categoryId": 5
+    },
+    {
+      "name": "Board Game",
+      "description": "Strategy board game for family fun.",
+      "price": 29.99,
+      "categoryId": 5
+    },
+    {
+      "name": "Camping Tent",
+      "description": "4-person tent for outdoor camping adventures.",
+      "price": 129.99,
+      "categoryId": 6
+    },
+    {
+      "name": "Yoga Mat",
+      "description": "Non-slip yoga mat for exercise and meditation.",
+      "price": 24.99,
+      "categoryId": 6
+    },
+    {
+      "name": "Football",
+      "description": "Official size football for outdoor play.",
+      "price": 19.99,
+      "categoryId": 6
+    },
+    {
+      "name": "Face Cream",
+      "description": "Anti-aging face cream with SPF 30.",
+      "price": 34.99,
+      "categoryId": 7
+    },
+    {
+      "name": "Hair Dryer",
+      "description": "High-power hair dryer with multiple heat settings.",
+      "price": 49.99,
+      "categoryId": 7
+    },
+    {
+      "name": "Shampoo",
+      "description": "Moisturizing shampoo for dry hair.",
+      "price": 12.99,
+      "categoryId": 7
+    },
+    {
+      "name": "Car Vacuum Cleaner",
+      "description": "Portable vacuum cleaner for car interiors.",
+      "price": 39.99,
+      "categoryId": 8
+    },
+    {
+      "name": "Car Battery Charger",
+      "description": "Smart car battery charger with automatic shutoff.",
+      "price": 69.99,
+      "categoryId": 8
+    },
+    {
+      "name": "Steering Wheel Cover",
+      "description": "Comfortable leather steering wheel cover.",
+      "price": 19.99,
+      "categoryId": 8
+    },
+    {
+      "name": "Gold Necklace",
+      "description": "14k gold necklace with a heart-shaped pendant.",
+      "price": 199.99,
+      "categoryId": 9
+    },
+    {
+      "name": "Silver Ring",
+      "description": "Sterling silver ring with cubic zirconia stones.",
+      "price": 49.99,
+      "categoryId": 9
+    },
+    {
+      "name": "Bracelet",
+      "description": "Charm bracelet with customizable charms.",
+      "price": 29.99,
+      "categoryId": 9
+    },
+    {
+      "name": "Notebook",
+      "description": "Spiral-bound notebook with 200 pages.",
+      "price": 4.99,
+      "categoryId": 10
+    },
+    {
+      "name": "Ballpoint Pens",
+      "description": "Pack of 10 ballpoint pens in various colors.",
+      "price": 2.99,
+      "categoryId": 10
+    },
+    {
+      "name": "Desk Organizer",
+      "description": "Multi-compartment desk organizer for office supplies.",
+      "price": 14.99,
+      "categoryId": 10
+    }
+  ]
+  

@@ -1,0 +1,43 @@
+[
+    {
+      "name": "Electronics",
+      "description": "Devices, gadgets, and other electronic equipment."
+    },
+    {
+      "name": "Books",
+      "description": "Various genres of books including fiction, non-fiction, and educational."
+    },
+    {
+      "name": "Clothing",
+      "description": "Apparel for men, women, and children."
+    },
+    {
+      "name": "Home & Kitchen",
+      "description": "Home appliances, kitchen essentials, and furniture."
+    },
+    {
+      "name": "Toys",
+      "description": "Toys and games for children of all ages."
+    },
+    {
+      "name": "Sports & Outdoors",
+      "description": "Sporting goods and outdoor gear for various activities."
+    },
+    {
+      "name": "Health & Beauty",
+      "description": "Health products, skincare, and beauty accessories."
+    },
+    {
+      "name": "Automotive",
+      "description": "Car accessories, tools, and automotive parts."
+    },
+    {
+      "name": "Jewelry",
+      "description": "Fashionable jewelry including necklaces, rings, and bracelets."
+    },
+    {
+      "name": "Office Supplies",
+      "description": "Office stationery and supplies for business or personal use."
+    }
+  ]
+  
